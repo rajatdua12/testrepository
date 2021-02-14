@@ -1,4 +1,5 @@
 x = 12
 y = 10
-z = x+y
-print("Sum of x and y = ",z)
+a = 4
+z = x+y+a
+print("Sum of x, y and a = ",z)
